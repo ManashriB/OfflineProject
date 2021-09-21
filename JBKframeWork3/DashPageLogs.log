@@ -1,0 +1,1375 @@
+2021-08-19 20:01:49,927  INFO [main] DashBoardPage:59 - Print all colors
+2021-09-14 22:19:02,575  INFO [main] DashBoardPage:59 - Print all colors
+2021-09-14 22:19:02,575  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:02,575  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:02,575  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:02,575  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:02,575  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:04,182  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:04,182  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:04,222  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:04,222  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:04,590  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:04,590  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:04,590  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:04,598  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:04,598  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:04,598  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:04,838  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:04,838  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:04,838  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:04,966  INFO [main] TestBase:23 - manashri
+2021-09-14 22:19:05,437  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:05,437  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:05,437  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:05,437  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:05,437  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:07,454  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:07,454  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:07,454  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:07,454  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:07,849  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:07,849  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:07,849  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:07,849  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:07,849  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:07,849  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:08,056  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:08,056  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:08,056  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:08,317  INFO [main] TestBase:23 - manashri
+2021-09-14 22:19:09,179  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:09,179  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:09,179  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:09,179  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:09,179  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:11,484  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:11,484  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:11,484  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:11,484  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:11,988  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:11,988  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:11,988  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:11,988  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:11,988  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:11,988  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:12,340  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:12,340  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:12,340  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:12,571  INFO [main] TestBase:23 - manashri
+2021-09-14 22:19:13,599  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:13,599  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:13,599  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:13,607  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:13,607  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:16,210  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:16,210  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:16,210  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:16,210  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:16,599  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:16,607  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:16,607  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:16,607  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:16,607  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:16,607  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:16,831  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:16,831  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:16,831  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:16,983  INFO [main] TestBase:23 - manashri
+2021-09-14 22:19:17,966  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:17,966  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:17,966  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:17,966  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:17,966  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:20,425  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:20,425  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:20,425  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:20,425  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:20,857  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:20,857  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:20,857  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:20,865  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:20,865  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:20,865  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:21,129  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:21,129  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:21,137  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:21,461  INFO [main] TestBase:23 - manashri
+2021-09-14 22:19:30,292  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:30,292  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:30,292  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:30,292  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:30,292  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:32,274  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:32,274  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:32,274  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:32,274  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:33,118  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:33,118  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:33,118  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:33,126  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:33,126  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:33,134  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:33,418  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:33,418  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:33,418  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:33,578  INFO [main] TestBase:23 - manashri
+2021-09-14 22:19:34,283  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:34,283  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:34,283  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:34,283  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:34,283  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:36,305  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:36,305  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:36,305  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:36,305  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:37,073  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:37,073  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:37,073  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:37,073  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:37,073  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:37,081  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:37,423  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:37,423  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:37,423  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:37,624  INFO [main] TestBase:23 - manashri
+2021-09-14 22:19:38,762  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:38,762  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:38,762  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:38,762  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:38,762  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:41,132  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:41,132  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:41,132  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:41,140  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:41,875  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:41,875  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:41,875  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:41,875  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:41,875  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:41,875  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:42,491  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:42,491  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:42,491  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:42,667  INFO [main] TestBase:23 - manashri
+2021-09-14 22:19:43,503  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:43,503  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:43,503  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:43,503  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:43,503  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:46,040  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:46,040  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:46,040  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:46,040  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:46,524  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:46,524  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:46,524  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:46,524  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:46,532  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:46,532  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:46,965  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:46,965  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:46,965  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:47,490  INFO [main] TestBase:23 - manashri
+2021-09-14 22:19:48,504  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:48,504  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:48,504  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:48,504  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:48,504  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:50,336  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:50,336  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:50,336  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:50,336  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:50,871  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:50,871  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:50,871  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:50,871  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:50,871  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:50,871  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:51,127  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:51,127  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:51,127  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:51,351  INFO [main] TestBase:23 - manashri
+2021-09-14 22:19:52,161  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:52,161  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:52,161  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:52,161  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:52,161  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:54,073  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:54,073  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:54,073  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:54,073  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:54,897  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:54,905  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:54,905  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:54,905  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:54,905  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:54,905  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:55,153  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:55,153  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:55,161  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:55,329  INFO [main] TestBase:23 - manashri
+2021-09-14 22:19:55,923  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:19:55,931  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:19:55,931  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:55,931  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:19:55,931  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:19:58,151  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:19:58,167  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:58,167  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:58,167  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:58,647  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:19:58,647  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:58,647  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:19:58,647  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:19:58,655  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:58,655  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:19:58,911  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:19:58,911  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:19:58,911  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:19:59,055  INFO [main] TestBase:23 - manashri
+2021-09-14 22:23:55,433  INFO [main] DashBoardPage:59 - Print all colors
+2021-09-14 22:23:55,433  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:23:55,441  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:23:55,441  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:23:55,441  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:23:55,441  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:23:57,498  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:23:57,498  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:23:57,498  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:23:57,498  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:23:58,141  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:23:58,141  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:23:58,141  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:23:58,149  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:23:58,149  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:23:58,149  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:23:58,380  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:23:58,380  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:23:58,380  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:23:58,500  INFO [main] TestBase:23 - manashri
+2021-09-14 22:23:59,115  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:23:59,115  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:23:59,115  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:23:59,115  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:23:59,115  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:24:01,076  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:24:01,076  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:01,076  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:01,076  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:01,636  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:01,636  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:01,636  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:01,636  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:24:01,636  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:01,636  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:24:01,984  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:24:01,984  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:01,984  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:24:02,136  INFO [main] TestBase:23 - manashri
+2021-09-14 22:24:03,156  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:24:03,156  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:24:03,156  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:03,156  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:24:03,156  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:24:05,201  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:24:05,201  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:05,201  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:05,201  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:05,753  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:05,753  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:05,753  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:05,753  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:24:05,753  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:05,753  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:24:06,775  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:24:06,775  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:06,775  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:24:06,934  INFO [main] TestBase:23 - manashri
+2021-09-14 22:24:08,007  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:24:08,007  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:24:08,007  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:08,007  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:24:08,007  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:24:11,303  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:24:11,303  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:11,303  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:11,303  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:14,051  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:14,051  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:14,059  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:14,059  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:24:14,059  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:14,059  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:24:14,227  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:24:14,227  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:14,227  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:24:14,339  INFO [main] TestBase:23 - manashri
+2021-09-14 22:24:15,532  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:24:15,532  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:24:15,532  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:15,532  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:24:15,532  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:24:24,278  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:24:24,278  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:24,278  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:24,278  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:25,134  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:25,134  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:25,134  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:25,134  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:24:25,134  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:25,134  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:24:25,390  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:24:25,390  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:25,390  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:24:25,614  INFO [main] TestBase:23 - manashri
+2021-09-14 22:24:32,293  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:24:32,293  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:24:32,293  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:32,293  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:24:32,293  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:24:35,030  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:24:35,030  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:35,030  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:35,030  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:36,678  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:36,678  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:36,678  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:36,678  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:24:36,678  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:36,678  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:24:37,325  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:24:37,325  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:37,325  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:24:37,541  INFO [main] TestBase:23 - manashri
+2021-09-14 22:24:38,249  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:24:38,249  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:24:38,249  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:38,257  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:24:38,257  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:24:40,321  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:24:40,321  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:40,321  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:40,321  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:40,969  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:40,969  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:40,969  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:40,977  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:24:40,977  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:40,977  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:24:41,265  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:24:41,265  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:41,273  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:24:41,425  INFO [main] TestBase:23 - manashri
+2021-09-14 22:24:42,627  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:24:42,627  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:24:42,627  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:42,627  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:24:42,627  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:24:44,826  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:24:44,826  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:44,834  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:44,834  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:45,538  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:45,538  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:45,538  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:45,538  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:24:45,538  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:45,538  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:24:45,778  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:24:45,778  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:45,778  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:24:45,922  INFO [main] TestBase:23 - manashri
+2021-09-14 22:24:46,594  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:24:46,594  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:24:46,594  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:46,594  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:24:46,594  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:24:48,650  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:24:48,650  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:48,650  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:48,650  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:49,242  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:49,242  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:49,242  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:49,242  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:24:49,242  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:49,242  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:24:49,482  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:24:49,482  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:49,482  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:24:49,634  INFO [main] TestBase:23 - manashri
+2021-09-14 22:24:50,756  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:24:50,756  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:24:50,756  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:50,756  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:24:50,764  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:24:52,748  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:24:52,748  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:52,748  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:52,748  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:53,316  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:53,316  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:53,324  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:53,324  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:24:53,324  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:53,324  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:24:53,588  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:24:53,588  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:53,588  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:24:53,748  INFO [main] TestBase:23 - manashri
+2021-09-14 22:24:54,517  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:24:54,517  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:24:54,517  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:54,517  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:24:54,517  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:24:56,373  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:24:56,373  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:56,373  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:56,381  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:57,093  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:57,093  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:57,101  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:24:57,101  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:24:57,101  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:57,101  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:24:57,309  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:24:57,309  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:57,309  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:24:57,453  INFO [main] TestBase:23 - manashri
+2021-09-14 22:24:58,124  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:24:58,124  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:24:58,124  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:58,124  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:24:58,124  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:24:59,852  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:24:59,852  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:24:59,852  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:24:59,852  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:25:00,460  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:25:00,460  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:25:00,460  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:25:00,460  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:25:00,460  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:25:00,460  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:25:00,756  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:25:00,756  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:25:00,756  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:25:00,948  INFO [main] TestBase:23 - manashri
+2021-09-14 22:31:56,671  INFO [main] DashBoardPage:59 - Print all colors
+2021-09-14 22:31:56,671  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:31:56,671  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:31:56,671  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:31:56,671  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:31:56,671  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:31:58,588  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:31:58,588  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:31:58,588  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:31:58,588  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:31:59,302  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:31:59,302  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:31:59,302  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:31:59,302  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:31:59,302  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:31:59,302  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:31:59,558  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:31:59,558  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:31:59,558  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:31:59,756  INFO [main] TestBase:23 - manashri
+2021-09-14 22:32:00,355  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:32:00,355  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:32:00,355  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:00,355  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:32:00,363  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:32:02,656  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:32:02,656  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:02,656  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:02,656  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:03,252  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:03,252  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:03,260  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:03,260  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:32:03,260  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:03,260  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:32:03,484  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:32:03,484  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:03,492  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:32:03,644  INFO [main] TestBase:23 - manashri
+2021-09-14 22:32:04,620  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:32:04,620  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:32:04,620  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:04,620  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:32:04,628  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:32:06,818  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:32:06,818  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:06,818  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:06,818  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:07,526  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:07,526  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:07,526  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:07,534  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:32:07,534  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:07,534  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:32:07,835  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:32:07,835  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:07,835  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:32:08,008  INFO [main] TestBase:23 - manashri
+2021-09-14 22:32:09,259  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:32:09,259  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:32:09,259  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:09,259  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:32:09,259  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:32:11,575  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:32:11,575  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:11,575  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:11,575  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:12,250  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:12,250  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:12,250  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:12,250  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:32:12,250  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:12,250  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:32:12,538  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:32:12,538  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:12,546  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:32:12,781  INFO [main] TestBase:23 - manashri
+2021-09-14 22:32:14,067  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:32:14,067  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:32:14,067  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:14,067  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:32:14,067  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:32:16,406  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:32:16,406  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:16,406  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:16,406  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:17,094  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:17,094  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:17,102  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:17,102  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:32:17,102  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:17,102  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:32:17,360  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:32:17,360  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:17,360  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:32:17,640  INFO [main] TestBase:23 - manashri
+2021-09-14 22:32:23,350  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:32:23,350  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:32:23,350  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:23,350  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:32:23,350  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:32:27,071  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:32:27,071  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:27,071  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:27,071  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:27,775  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:27,775  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:27,783  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:27,783  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:32:27,783  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:27,783  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:32:28,041  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:32:28,041  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:28,041  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:32:28,219  INFO [main] TestBase:23 - manashri
+2021-09-14 22:32:29,083  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:32:29,083  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:32:29,083  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:29,083  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:32:29,083  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:32:32,050  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:32:32,050  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:32,050  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:32,050  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:33,665  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:33,665  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:33,665  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:33,673  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:32:33,673  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:33,673  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:32:33,969  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:32:33,969  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:33,969  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:32:34,137  INFO [main] TestBase:23 - manashri
+2021-09-14 22:32:35,093  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:32:35,093  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:32:35,093  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:35,093  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:32:35,093  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:32:37,530  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:32:37,530  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:37,546  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:37,546  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:38,390  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:38,390  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:38,390  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:38,390  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:32:38,390  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:38,390  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:32:38,646  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:32:38,646  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:38,646  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:32:38,742  INFO [main] TestBase:23 - manashri
+2021-09-14 22:32:39,702  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:32:39,702  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:32:39,702  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:39,702  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:32:39,702  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:32:41,809  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:32:41,809  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:41,809  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:41,809  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:42,958  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:42,958  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:42,958  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:42,958  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:32:42,958  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:42,966  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:32:43,214  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:32:43,214  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:43,214  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:32:43,366  INFO [main] TestBase:23 - manashri
+2021-09-14 22:32:44,894  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:32:44,894  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:32:44,894  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:44,894  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:32:44,894  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:32:49,107  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:32:49,107  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:49,107  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:49,107  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:50,341  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:50,341  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:50,421  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:50,461  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:32:50,469  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:50,469  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:32:50,789  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:32:50,789  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:50,789  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:32:51,088  INFO [main] TestBase:23 - manashri
+2021-09-14 22:32:52,223  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:32:52,223  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:32:52,223  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:52,223  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:32:52,223  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:32:59,239  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:32:59,239  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:59,239  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:59,239  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:59,898  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:32:59,898  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:59,898  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:32:59,898  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:32:59,898  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:32:59,906  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:33:00,425  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:33:00,425  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:33:00,433  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:33:00,649  INFO [main] TestBase:23 - manashri
+2021-09-14 22:33:01,374  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:33:01,374  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:33:01,374  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:33:01,374  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:33:01,374  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:33:03,915  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:33:03,915  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:33:03,915  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:33:03,915  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:33:04,599  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:33:04,599  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:33:04,599  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:33:04,599  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:33:04,599  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:33:04,599  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:33:04,935  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:33:04,935  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:33:04,935  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:33:05,128  INFO [main] TestBase:23 - manashri
+2021-09-14 22:45:41,652  INFO [main] DashBoardPage:59 - Print all colors
+2021-09-14 22:45:41,656  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:45:41,656  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:45:41,656  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:41,657  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:45:41,657  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:45:44,439  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:45:44,439  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:45:44,440  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:44,440  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:45:45,061  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:45:45,062  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:45,063  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:45:45,067  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:45:45,067  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:45,069  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:45:45,323  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:45:45,323  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:45,324  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:45:45,577  INFO [main] TestBase:23 - manashri
+2021-09-14 22:45:46,253  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:45:46,253  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:45:46,253  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:46,254  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:45:46,254  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:45:48,520  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:45:48,520  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:45:48,520  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:48,521  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:45:49,117  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:45:49,118  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:49,119  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:45:49,120  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:45:49,120  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:49,121  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:45:49,452  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:45:49,453  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:49,454  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:45:49,614  INFO [main] TestBase:23 - manashri
+2021-09-14 22:45:50,927  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:45:50,927  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:45:50,927  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:50,928  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:45:50,928  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:45:53,044  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:45:53,044  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:45:53,045  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:53,045  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:45:53,637  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:45:53,638  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:53,638  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:45:53,639  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:45:53,640  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:53,640  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:45:53,916  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:45:53,916  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:53,917  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:45:54,060  INFO [main] TestBase:23 - manashri
+2021-09-14 22:45:55,367  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:45:55,367  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:45:55,368  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:55,368  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:45:55,369  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:45:57,414  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:45:57,415  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:45:57,415  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:57,416  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:45:58,024  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:45:58,025  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:58,026  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:45:58,027  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:45:58,027  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:58,027  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:45:58,320  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:45:58,321  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:58,321  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:45:58,469  INFO [main] TestBase:23 - manashri
+2021-09-14 22:45:59,612  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:45:59,612  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:45:59,613  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:45:59,613  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:45:59,614  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:46:03,272  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:46:03,273  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:03,273  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:03,274  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:07,707  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:07,707  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:07,708  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:07,709  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:46:07,710  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:07,710  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:46:07,925  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:46:07,925  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:07,925  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:46:08,078  INFO [main] TestBase:23 - manashri
+2021-09-14 22:46:10,019  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:46:10,019  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:46:10,019  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:10,020  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:46:10,021  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:46:12,345  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:46:12,345  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:12,345  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:12,345  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:13,201  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:13,202  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:13,202  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:13,204  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:46:13,204  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:13,205  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:46:13,427  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:46:13,427  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:13,428  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:46:13,563  INFO [main] TestBase:23 - manashri
+2021-09-14 22:46:14,107  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:46:14,107  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:46:14,107  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:14,107  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:46:14,107  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:46:16,109  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:46:16,109  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:16,109  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:16,109  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:16,732  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:16,732  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:16,733  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:16,733  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:46:16,733  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:16,733  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:46:16,885  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:46:16,886  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:16,886  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:46:16,990  INFO [main] TestBase:23 - manashri
+2021-09-14 22:46:17,634  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:46:17,635  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:46:17,635  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:17,635  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:46:17,635  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:46:20,956  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:46:20,956  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:20,956  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:20,957  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:21,378  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:21,378  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:21,379  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:21,380  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:46:21,380  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:21,381  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:46:21,640  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:46:21,641  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:21,641  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:46:21,809  INFO [main] TestBase:23 - manashri
+2021-09-14 22:46:22,673  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:46:22,674  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:46:22,674  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:22,674  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:46:22,675  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:46:24,311  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:46:24,311  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:24,311  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:24,311  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:24,930  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:24,930  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:24,931  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:24,931  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:46:24,931  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:24,932  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:46:25,186  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:46:25,186  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:25,187  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:46:25,317  INFO [main] TestBase:23 - manashri
+2021-09-14 22:46:26,007  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:46:26,007  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:46:26,007  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:26,008  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:46:26,008  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:46:28,568  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:46:28,569  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:28,570  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:28,572  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:29,382  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:29,384  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:29,384  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:29,385  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:46:29,385  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:29,386  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:46:29,695  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:46:29,695  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:29,695  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:46:29,823  INFO [main] TestBase:23 - manashri
+2021-09-14 22:46:30,421  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:46:30,421  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:46:30,422  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:30,422  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:46:30,422  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:46:32,593  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:46:32,594  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:32,595  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:32,595  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:33,227  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:33,228  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:33,231  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:33,232  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:46:33,233  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:33,233  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:46:33,518  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:46:33,518  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:33,519  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:46:33,681  INFO [main] TestBase:23 - manashri
+2021-09-14 22:46:34,416  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:46:34,416  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:46:34,416  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:34,417  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:46:34,417  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:46:36,050  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:46:36,051  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:36,051  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:36,051  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:39,613  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:46:39,614  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:39,614  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:46:39,615  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:46:39,615  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:39,616  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:46:39,889  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:46:39,889  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:46:39,889  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:46:40,078  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:14,162  INFO [main] DashBoardPage:59 - Print all colors
+2021-09-14 22:54:14,321  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:14,321  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:14,322  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:14,322  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:14,322  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:15,804  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:15,804  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:15,805  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:15,805  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:16,117  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:16,118  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:16,118  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:16,118  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:16,119  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:16,119  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:16,276  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:16,276  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:16,277  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:16,358  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:16,750  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:16,750  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:16,750  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:16,750  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:16,750  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:18,333  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:18,333  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:18,333  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:18,333  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:18,644  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:18,645  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:18,645  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:18,646  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:18,647  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:18,647  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:18,796  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:18,796  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:18,797  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:18,877  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:19,433  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:19,433  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:19,433  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:19,434  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:19,434  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:20,935  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:20,935  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:20,935  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:20,935  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:21,279  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:21,279  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:21,280  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:21,281  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:21,281  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:21,282  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:21,439  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:21,439  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:21,440  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:21,520  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:22,098  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:22,098  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:22,098  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:22,099  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:22,099  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:23,578  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:23,578  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:23,578  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:23,578  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:23,865  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:23,865  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:23,866  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:23,866  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:23,867  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:23,867  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:24,038  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:24,038  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:24,038  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:24,120  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:24,667  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:24,667  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:24,668  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:24,668  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:24,668  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:26,097  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:26,097  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:26,097  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:26,097  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:26,430  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:26,431  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:26,431  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:26,432  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:26,432  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:26,433  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:26,588  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:26,589  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:26,589  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:26,673  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:28,274  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:28,274  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:28,274  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:28,275  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:28,275  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:29,933  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:29,933  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:29,933  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:29,934  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:30,407  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:30,408  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:30,408  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:30,409  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:30,409  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:30,409  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:30,594  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:30,594  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:30,595  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:30,716  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:31,433  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:31,434  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:31,434  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:31,434  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:31,434  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:32,967  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:32,967  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:32,967  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:32,967  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:33,352  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:33,352  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:33,353  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:33,355  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:33,356  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:33,357  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:33,525  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:33,525  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:33,526  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:33,630  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:34,512  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:34,512  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:34,512  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:34,512  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:34,512  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:36,150  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:36,150  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:36,150  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:36,150  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:36,512  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:36,513  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:36,514  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:36,515  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:36,515  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:36,516  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:36,704  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:36,704  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:36,705  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:36,825  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:37,508  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:37,508  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:37,508  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:37,509  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:37,509  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:39,109  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:39,109  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:39,109  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:39,109  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:39,467  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:39,468  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:39,468  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:39,469  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:39,470  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:39,471  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:39,645  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:39,645  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:39,645  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:39,755  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:40,518  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:40,518  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:40,519  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:40,519  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:40,519  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:41,946  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:41,947  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:41,947  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:41,947  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:42,415  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:42,415  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:42,416  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:42,416  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:42,416  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:42,417  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:42,584  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:42,584  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:42,585  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:42,677  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:43,111  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:43,111  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:43,111  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:43,111  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:43,111  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:45,203  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:45,203  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:45,203  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:45,204  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:46,007  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:46,008  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:46,008  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:46,009  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:46,009  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:46,010  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:46,155  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:46,155  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:46,156  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:46,246  INFO [main] TestBase:23 - manashri
+2021-09-14 22:54:46,697  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 22:54:46,698  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 22:54:46,698  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:46,699  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 22:54:46,699  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 22:54:48,248  INFO [main] TestBase:60 - lunching a application
+2021-09-14 22:54:48,248  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:48,248  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:48,248  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:49,026  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 22:54:49,026  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:49,027  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 22:54:49,028  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 22:54:49,028  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:49,029  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 22:54:49,181  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 22:54:49,181  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 22:54:49,182  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 22:54:49,272  INFO [main] TestBase:23 - manashri
+2021-09-14 23:00:51,351  INFO [main] DashBoardPage:59 - Print all colors
+2021-09-14 23:00:51,514  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:00:51,514  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:00:51,514  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:51,515  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:00:51,515  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:00:52,937  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:00:52,937  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:00:52,937  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:52,938  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:00:53,312  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:00:53,313  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:53,313  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:00:53,314  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:00:53,314  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:53,315  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:00:53,474  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:00:53,474  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:53,474  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:00:53,555  INFO [main] TestBase:23 - manashri
+2021-09-14 23:00:53,992  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:00:53,992  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:00:53,992  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:53,992  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:00:53,992  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:00:55,440  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:00:55,440  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:00:55,440  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:55,440  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:00:55,763  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:00:55,763  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:55,764  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:00:55,765  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:00:55,765  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:55,765  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:00:55,922  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:00:55,922  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:55,923  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:00:56,003  INFO [main] TestBase:23 - manashri
+2021-09-14 23:00:56,579  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:00:56,580  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:00:56,580  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:56,580  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:00:56,581  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:00:58,047  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:00:58,048  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:00:58,048  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:58,048  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:00:58,379  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:00:58,380  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:58,380  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:00:58,381  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:00:58,382  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:58,382  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:00:58,531  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:00:58,532  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:58,534  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:00:58,623  INFO [main] TestBase:23 - manashri
+2021-09-14 23:00:59,335  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:00:59,336  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:00:59,336  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:00:59,336  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:00:59,337  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:01:00,750  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:01:00,750  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:00,750  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:00,750  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:01,071  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:01,072  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:01,072  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:01,073  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:01:01,074  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:01,074  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:01:01,253  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:01:01,254  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:01,254  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:01:01,339  INFO [main] TestBase:23 - manashri
+2021-09-14 23:01:01,963  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:01:01,963  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:01:01,963  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:01,964  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:01:01,964  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:01:03,355  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:01:03,355  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:03,355  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:03,355  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:03,679  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:03,680  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:03,680  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:03,681  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:01:03,681  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:03,682  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:01:03,866  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:01:03,867  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:03,867  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:01:03,971  INFO [main] TestBase:23 - manashri
+2021-09-14 23:01:05,520  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:01:05,520  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:01:05,521  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:05,522  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:01:05,523  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:01:07,583  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:01:07,583  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:07,583  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:07,583  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:07,995  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:07,995  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:07,996  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:07,997  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:01:07,998  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:07,999  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:01:08,221  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:01:08,222  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:08,222  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:01:08,312  INFO [main] TestBase:23 - manashri
+2021-09-14 23:01:08,959  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:01:08,959  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:01:08,959  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:08,960  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:01:08,960  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:01:10,537  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:01:10,537  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:10,537  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:10,537  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:10,925  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:10,926  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:10,926  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:10,927  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:01:10,927  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:10,928  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:01:11,153  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:01:11,154  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:11,154  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:01:11,282  INFO [main] TestBase:23 - manashri
+2021-09-14 23:01:12,023  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:01:12,024  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:01:12,024  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:12,024  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:01:12,024  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:01:16,963  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:01:16,963  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:16,963  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:16,963  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:17,308  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:17,308  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:17,309  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:17,310  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:01:17,310  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:17,310  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:01:17,484  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:01:17,484  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:17,484  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:01:17,596  INFO [main] TestBase:23 - manashri
+2021-09-14 23:01:22,237  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:01:22,237  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:01:22,237  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:22,237  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:01:22,237  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:01:23,827  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:01:23,827  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:23,827  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:23,827  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:24,377  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:24,378  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:24,379  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:24,380  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:01:24,380  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:24,381  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:01:24,559  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:01:24,559  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:24,559  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:01:24,651  INFO [main] TestBase:23 - manashri
+2021-09-14 23:01:25,175  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:01:25,176  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:01:25,176  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:25,176  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:01:25,176  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:01:26,650  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:01:26,650  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:26,650  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:26,650  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:27,010  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:27,010  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:27,011  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:27,011  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:01:27,012  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:27,012  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:01:27,164  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:01:27,165  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:27,165  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:01:27,250  INFO [main] TestBase:23 - manashri
+2021-09-14 23:01:27,707  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:01:27,707  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:01:27,707  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:27,707  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:01:27,707  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:01:29,142  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:01:29,142  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:29,142  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:29,142  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:29,513  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:29,513  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:29,514  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:29,514  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:01:29,515  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:29,515  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:01:29,671  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:01:29,671  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:29,672  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:01:29,763  INFO [main] TestBase:23 - manashri
+2021-09-14 23:01:30,230  INFO [main] TestBase:37 - browser initalizing
+2021-09-14 23:01:30,230  INFO [main] TestBase:21 - Reading the value of property browser
+2021-09-14 23:01:30,230  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:30,230  INFO [main] TestBase:32 - property value found in the file with key asbrowserand the value is: chrome
+2021-09-14 23:01:30,230  INFO [main] TestBase:40 - user want to automate the chrome browser
+2021-09-14 23:01:31,679  INFO [main] TestBase:60 - lunching a application
+2021-09-14 23:01:31,679  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:31,679  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:31,680  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:32,034  INFO [main] TestBase:21 - Reading the value of property url
+2021-09-14 23:01:32,035  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:32,035  INFO [main] TestBase:32 - property value found in the file with key asurland the value is: file:///D:/Offline%20Website/Offline%20Website/index.html
+2021-09-14 23:01:32,036  INFO [main] TestBase:21 - Reading the value of property username
+2021-09-14 23:01:32,037  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:32,037  INFO [main] TestBase:32 - property value found in the file with key asusernameand the value is: kiran@gmail.com
+2021-09-14 23:01:32,188  INFO [main] TestBase:21 - Reading the value of property password
+2021-09-14 23:01:32,188  INFO [main] TestBase:25 - initializing the property file
+2021-09-14 23:01:32,188  INFO [main] TestBase:32 - property value found in the file with key aspasswordand the value is: 123456
+2021-09-14 23:01:32,276  INFO [main] TestBase:23 - manashri

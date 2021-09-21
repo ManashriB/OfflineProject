@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="12" total="13" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8687" started-at="2021-09-21T06:03:44Z" finished-at="2021-09-21T06:03:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8687" started-at="2021-09-21T06:03:44Z" finished-at="2021-09-21T06:03:53Z">
+      <class name="com.test.DashboardTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.DashboardTest@369f73a2]" name="setUp" is-config="true" duration-ms="8462" started-at="2021-09-21T06:03:44Z" finished-at="2021-09-21T06:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifylowerText()[pri:0, instance:com.test.DashboardTest@369f73a2]" name="VerifylowerText" duration-ms="67" started-at="2021-09-21T06:03:53Z" finished-at="2021-09-21T06:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifylowerText -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.test.DashboardTest@369f73a2]" name="logOut" is-config="true" duration-ms="118" started-at="2021-09-21T06:03:53Z" finished-at="2021-09-21T06:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- com.test.DashboardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
